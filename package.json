@@ -1,0 +1,17 @@
+{
+    "name": "libtess2js",
+    "version": "0.1.0",
+    "author": "Jeffrey Sun",
+    "description": "Wrape libtess2 as Node.js addon",
+    "main": "index.js",
+    "engines": {
+        "node": "0.8.x"
+    },
+    "dependencies": {},
+    "devDependencies": {},
+    "repository": "",
+    "keywords": [
+        "addon",
+        "libtess2"
+    ]
+}
